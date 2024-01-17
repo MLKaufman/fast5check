@@ -19,4 +19,4 @@ requires = ["setuptools>=68.2.2"]
 build-backend = "setuptools.build_meta"
 
 [project.scripts]
-htmltabs = "fast5check.fast5check:app"
+fast5check = "fast5check.fast5check:app"
