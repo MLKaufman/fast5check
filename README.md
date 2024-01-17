@@ -13,7 +13,7 @@ pipx install git+https://github.com/MLKaufman/fast5check
 can aslo be installed with vanilla pip:
 
 ```
-pipx install git+https://github.com/MLKaufman/fast5check
+pip install git+https://github.com/MLKaufman/fast5check
 ```
 
 Once installed can be run using the command:
